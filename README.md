@@ -13,3 +13,7 @@ Promt:
    Fehler im csv-Format
    Flasche Anzahl an Werte zurückgeliefert (z.B. 2 Sub-Genres)
 5) Zählen von identischen Titeln
+
+## Dateien
+raw.csv sind die Rückgabe von GPT4o
+Die übrigen Dateien sind bereinigt, gezählt und sortierte Werte des im Dateinamen enthaltenen Parameters
