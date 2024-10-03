@@ -1,5 +1,7 @@
 # 20books_mastodon
 Metadaten, die aus dem #20books / Mastodon per scraping der Bilder und Identifikation mit GenAI erzeugt wurden
+Details zum Prozess
+https://digi-ing.de/finding-cool-books-on-mastodon-by-analyzing-over-6000-posts/
 
 ## Ablauf der Datenerzeigung
 
@@ -15,5 +17,5 @@ Promt:
 5) Zählen von identischen Titeln
 
 ## Dateien
-raw.csv sind die Rückgabe von GPT4o
+Raw_data.csv sind die Rückgabe von GPT4o, manuelle überarbeitet
 Die übrigen Dateien sind bereinigt, gezählt und sortierte Werte des im Dateinamen enthaltenen Parameters
